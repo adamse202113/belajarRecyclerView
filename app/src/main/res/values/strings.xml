@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Biodata Adam</string>
+    <string name="name">Adam Satria Nugraha</string>
+    <string name="bio">Pengguna Sah Kata "EUY" </string>
+    <string name="inputTTL">Tempat Tanggal Lahir :\nLiverpool, 31 Desember 1963</string>
+    <string name="inputCita">Cita Cita :\nBanyak</string>
+    <string name="inputPendidikan">Riwayat Pendidikan :\nTPA, SD, SMP, SMK</string>
+    <string name="inputHobby">Hobby :\nMenulis, Belajar Komedi</string>
+    <string name="inputMotto">Motto :\n"Tertawalah!"</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="btnGallery">Lihat Galeri</string>
+    <string name="namePhoto">The Beatles</string>
+    <string name="detail">Band asal Liverpool tahun 60-an yang melegenda hingga masa kini. lagunya pun asik didengar sepanjang zaman</string>
+</resources>
